@@ -1,1 +1,1 @@
-Hello, I'm [Seth Hill](https://www.linkedin.com/in/sethmhill/) and welcome to my blog where I talk about all things related to data.
+Hello, I'm [Seth Hill](https://www.linkedin.com/in/sethmhill/) and welcome to my blog, where I talk about all things related to data including: Analytics, Data Engineering, Machine Learning, and anything else that I find interesting.
