@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Seth Does Data
-description: #Seth Does Data
+description: > #Seth Does Data
 github_username: sethhill28
 
 # Email and twitter are optional:
