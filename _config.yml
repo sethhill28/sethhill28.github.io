@@ -7,12 +7,24 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Seth Does Data
+########
+author:
+  name: Seth Hill
+######
 description: > #Seth Does Data
 github_username: sethhill28
+
+###
+show_excerpts: false # set to true to show excerpts on the homepage
+###
 
 # Email and twitter are optional:
 #email: > #sethhill28@gmail.com
 #twitter_username: >
+
+###
+social_links:
+  github: sethhill28
 
 # Set this to true to get LaTeX math equation support
 use_math: true
