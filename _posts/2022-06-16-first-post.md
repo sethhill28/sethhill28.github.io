@@ -2,4 +2,4 @@
 
 Hello everybody
 
-Yeehaw, I juse made this change on my computer. 
+Yeehaw, I just made this change on my computer. 
