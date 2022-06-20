@@ -51,7 +51,8 @@ Image.open('../fast.ai/images/fast_template/image2.png').flip_lr()
 
 
     
-![png](images/blog_test_files/blog_test_8_0.png)
+![](/images/blog_test_files/blog_test_8_0.png)
+
     
 
 
@@ -65,9 +66,8 @@ plt.plot([1,2]);
 
 
     
-![png](images/blog_test_files/blog_test_10_0.png)
+![](/images/blog_test_files/blog_test_10_0.png)
     
-
 
 ...and Pandas DataFrames, and much more!
 
