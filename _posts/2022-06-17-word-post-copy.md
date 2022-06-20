@@ -1,0 +1,8 @@
+# 2022-06-17-word-post
+
+Hello everybody, I wrote this post in word.
+
+Here is my attempt at a screenshot
+
+
+![](/images/2022-06-17-word-post-copy/media/image1.png)
